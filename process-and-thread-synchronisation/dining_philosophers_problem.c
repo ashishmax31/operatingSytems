@@ -1,3 +1,7 @@
+
+// The dining philosophers problem is useful for modeling processes that are competing 
+// for exclusive access to a limited number of resources, such as I/O devices.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <semaphore.h>
